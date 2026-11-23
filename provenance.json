@@ -1,0 +1,19 @@
+{
+  "source_files": [
+    {
+      "name": "gap_c_final_test_stats.json",
+      "sha256": "6b10b2d9c9f4767ea9fd2aa3a851dc0e6dfe8a766b692a5e017f5ca6f6c69482"
+    },
+    {
+      "name": "figure-provenance.json",
+      "sha256": "75ea1dfae4e921c99ddcfbca998bfa9422bcc00c2301d4780b5c068ddbf8ee48"
+    }
+  ],
+  "published_csv_sha256": {
+    "table1_shoev2_seed_metrics.csv": "cdd86122b8897871279f31e05bf15b0a6d8fcc38b07d3a377620316668f28084",
+    "table1_shoev2_paired.csv": "d2afc1af2b5dbab3b26eee0218e7d3c1b8b76d8732b5f02ac48a0c5a8a652b84",
+    "figure2_code_length.csv": "10864681339ffe00b5504508ad54b5fcf3f26d9c4d359d4b11fc060346b5db78",
+    "figure3_aggregation.csv": "e10cbde1882891fca726b58715b1a65427f4d3fd16e3b98d4433248af65b8cdc",
+    "figure3_distillation.csv": "30ba889023c43d2f64f5853cefe15ec51ddb76724ee6fef12599d4d253297afe"
+  }
+}
